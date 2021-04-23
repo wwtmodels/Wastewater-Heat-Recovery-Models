@@ -1,4 +1,4 @@
-# Wastewater-heat-recovery-models
+# Wastewater-Heat-Recovery-Models
 This repository contains the different models developed for evaluating heat recovery from wastewater. The models are developed as a part of the FORMAS funded project HÅVA (Sustainable heat recovery from wastewater). The models are developed by [Lund University](https://www.iea.lth.se/) and [RISE](https://www.ri.se/en). 
 
 Models for different components of the urban wastewater system are developed.
