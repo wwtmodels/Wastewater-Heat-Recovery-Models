@@ -17,6 +17,7 @@ This model describes the major heat transfer processes in sewer systems (both gr
 [![WWHR](https://img.shields.io/badge/DOWNLOAD%20Sewer%20heat%20transfer%20model-990000?style=for-the-badge)](https://github.com/wwtmodels/Wastewater-Heat-Recovery-Models/releases/download/SewerHT/SewerHT.zip)  [![](https://img.shields.io/github/downloads/wwtmodels/Wastewater-Heat-Recovery-Models/SewerHT/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Wastewater-Heat-Recovery-Models) 
 
 The models are described in the following papers 
+Saagi, R., Arnell, M., Reyes, D., Wärff, C., Ahlström, M., & Jeppsson U. (2021). Modelling temperature dynamics in sewer systems – Comparing mechanistic and conceptual modelling approaches (submitted).
 
 <strong>3. Plant-wide energy balance model for WWTPs</strong>  
 Desc
