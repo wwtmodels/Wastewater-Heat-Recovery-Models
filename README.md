@@ -6,7 +6,7 @@ Models for different components of the urban wastewater system are developed.
 <strong>1. Wastewater generation model</strong>  
 This model generates flow rate, pollutant concentration and temperature values for households. Add more desc.
 
-[![WWHR](https://img.shields.io/badge/DOWNLOAD%20Wastewater%20generation%20model-990000?style=for-the-badge)](https://github.com/wwtmodels/Wastewater-Heat-Recovery-Models/releases/download/WWgen/WWgen.zip)  [![](https://img.shields.io/github/downloads/wwtmodels/Wastewater-Heat-Recovery-Models/WWgen/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Wastewater-Heat-Recovery-Models) 
+[![WWHR](https://img.shields.io/badge/DOWNLOAD%20Wastewater%20generation%20model-990000?style=for-the-badge)](https://github.com/wwtmodels/Wastewater-Heat-Recovery-Models/releases/download/WWgen/WWgen.zip)  [![](https://img.shields.io/github/downloads/wwtmodels/Wastewater-Heat-Recovery-Models/Wastewater_generation_model/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Wastewater-Heat-Recovery-Models) 
 
 The models are described in the following papers  
 [Wärff, C., Arnell, M., Sehlén, R., & Jeppsson, U. (2020). Modelling heat recovery potential from household wastewater. Water Science and Technology, 81(8), 1597–1605. ](https://doi.org/10.2166/wst.2020.103)
