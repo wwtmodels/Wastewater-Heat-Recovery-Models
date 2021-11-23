@@ -8,7 +8,8 @@ This model generates flow rate, pollutant concentration and temperature values f
 
 [![WWHR](https://img.shields.io/badge/DOWNLOAD%20Wastewater%20generation%20model-990000?style=for-the-badge)](https://github.com/wwtmodels/Wastewater-Heat-Recovery-Models/releases/download/WWgen/WWgen.zip)  [![](https://img.shields.io/github/downloads/wwtmodels/Wastewater-Heat-Recovery-Models/WWgen/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Wastewater-Heat-Recovery-Models) 
 
-The models are described in the following papers  
+The models are described in the following paper  
+
 [Wärff, C., Arnell, M., Sehlén, R., & Jeppsson, U. (2020). Modelling heat recovery potential from household wastewater. Water Science and Technology, 81(8), 1597–1605. ](https://doi.org/10.2166/wst.2020.103)
 
 <strong>2. Sewer heat transfer model</strong>  
@@ -16,8 +17,9 @@ This model describes the major heat transfer processes in sewer systems (both gr
 
 [![WWHR](https://img.shields.io/badge/DOWNLOAD%20Sewer%20heat%20transfer%20model-990000?style=for-the-badge)](https://github.com/wwtmodels/Wastewater-Heat-Recovery-Models/releases/download/SewerHT/SewerHT.zip)  [![](https://img.shields.io/github/downloads/wwtmodels/Wastewater-Heat-Recovery-Models/SewerHT/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Wastewater-Heat-Recovery-Models) 
 
-The models are described in the following papers 
-[Saagi, R., Arnell, M., Reyes, D., Wärff, C., Ahlström, M., & Jeppsson U. (2021). Modelling temperature dynamics in sewer systems – Comparing mechanistic and conceptual modelling approaches, 84(9), 2335-2352. ](https://doi.org/10.2166/wst.2021.425)
+The models are described in the following paper
+
+[Saagi, R., Arnell, M., Reyes, D., Wärff, C., Ahlström, M., & Jeppsson U. (2021). Modelling temperature dynamics in sewer systems – Comparing mechanistic and conceptual modelling approaches, 84(9), 2335-2352.](https://doi.org/10.2166/wst.2021.425)
 
 <strong>3. Plant-wide energy balance model for WWTPs</strong>  
 Desc
