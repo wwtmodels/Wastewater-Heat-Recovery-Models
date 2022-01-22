@@ -19,9 +19,16 @@ This model describes the major heat transfer processes in sewer systems (both gr
 
 The models are described in the following paper
 
-[Saagi, R., Arnell, M., Reyes, D., Wärff, C., Ahlström, M., & Jeppsson U. (2021). Modelling temperature dynamics in sewer systems – Comparing mechanistic and conceptual modelling approaches, 84(9), 2335-2352.](https://doi.org/10.2166/wst.2021.425)
+[Saagi, R., Arnell, M., Reyes, D., Wärff, C., Ahlström, M., & Jeppsson U. (2021). Modelling temperature dynamics in sewer systems – Comparing mechanistic and conceptual modelling approaches, Water Science and Technology, 84(9), 2335-2352.](https://doi.org/10.2166/wst.2021.425)
 
 <strong>3. Plant-wide energy balance model for WWTPs</strong>  
+Desc
+
+Model
+
+The models are described in the following papers  
+
+<strong>4. Heat Recovery Equipment Models</strong>  
 Desc
 
 Model
