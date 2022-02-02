@@ -31,7 +31,7 @@ The models are described in the following papers
 <strong>4. Heat Recovery Equipment Models</strong>  
 This model consists of heat exchanger and heat pump models that can be used to evaluate various heat recovery scenarios. The models simulate outgoing temperature as well as energy recovered from the heat recovery equipment.
 
-[![WWHR](https://img.shields.io/badge/DOWNLOAD%20Heat%20recovery%20equipment%20models-990000?style=for-the-badge)](https://github.com/wwtmodels/Wastewater-Heat-Recovery-Models/releases/download/HRE/HRE.zip)  [![](https://img.shields.io/github/downloads/wwtmodels/Wastewater-Heat-Recovery-Models/HRE/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Wastewater-Heat-Recovery-Models) 
+[![WWHR](https://img.shields.io/badge/DOWNLOAD%20Heat%20recovery%20equipment%20models-990000?style=for-the-badge)](https://github.com/wwtmodels/Wastewater-Heat-Recovery-Models/releases/download/HRE/HRE.zip)  [![](https://img.shields.io/github/downloads/wwtmodels/Wastewater-Heat-Recovery-Models/WWgen/total?color=990000&label=Downloads&style=for-the-badge)](https://github.com/wwtmodels/Wastewater-Heat-Recovery-Models) 
 
 The models are described in the following papers  
 [Arnell, M., & Saagi, R. (2020). Modelling of heat recovery equipment. Technical Report No. CODEN:LUTEDX/(TEIE-7280)/1-8/(2020), Division of Industrial Electrical Engineering and Automation, Lund University, Sweden.](https://www.iea.lth.se/publications/Reports/LTH-IEA-7280.pdf)
